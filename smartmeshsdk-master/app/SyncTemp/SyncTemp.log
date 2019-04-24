@@ -1,0 +1,627 @@
+2019-04-19 11:49:51,317 [App:INFO] receiverTask started
+2019-04-19 11:49:51,318 [SerialConnector:INFO] creating object
+2019-04-19 11:49:51,318 [App:INFO] configurationTask started
+2019-04-19 11:49:51,318 [Hdlc:INFO] Creating object
+2019-04-19 11:49:51,318 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:51,318 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:51,318 [Hdlc:INFO] disconnect
+2019-04-19 11:49:51,318 [App:INFO] disconnected
+2019-04-19 11:49:52,320 [SerialConnector:INFO] creating object
+2019-04-19 11:49:52,320 [Hdlc:INFO] Creating object
+2019-04-19 11:49:52,321 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:52,321 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:52,321 [Hdlc:INFO] disconnect
+2019-04-19 11:49:52,322 [App:INFO] disconnected
+2019-04-19 11:49:53,323 [SerialConnector:INFO] creating object
+2019-04-19 11:49:53,324 [Hdlc:INFO] Creating object
+2019-04-19 11:49:53,324 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:53,324 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:53,325 [Hdlc:INFO] disconnect
+2019-04-19 11:49:53,325 [App:INFO] disconnected
+2019-04-19 11:49:54,326 [SerialConnector:INFO] creating object
+2019-04-19 11:49:54,327 [Hdlc:INFO] Creating object
+2019-04-19 11:49:54,327 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:54,327 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:54,327 [Hdlc:INFO] disconnect
+2019-04-19 11:49:54,328 [App:INFO] disconnected
+2019-04-19 11:49:55,329 [SerialConnector:INFO] creating object
+2019-04-19 11:49:55,329 [Hdlc:INFO] Creating object
+2019-04-19 11:49:55,329 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:55,329 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:55,329 [Hdlc:INFO] disconnect
+2019-04-19 11:49:55,329 [App:INFO] disconnected
+2019-04-19 11:49:56,323 [SerialConnector:ERROR] not connected
+2019-04-19 11:49:56,324 [App:ERROR] error sending configuration: Connection Error: not connected
+2019-04-19 11:49:56,331 [SerialConnector:INFO] creating object
+2019-04-19 11:49:56,331 [Hdlc:INFO] Creating object
+2019-04-19 11:49:56,332 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:56,332 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:56,332 [Hdlc:INFO] disconnect
+2019-04-19 11:49:56,333 [App:INFO] disconnected
+2019-04-19 11:49:57,334 [SerialConnector:INFO] creating object
+2019-04-19 11:49:57,335 [Hdlc:INFO] Creating object
+2019-04-19 11:49:57,335 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:57,335 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:57,336 [Hdlc:INFO] disconnect
+2019-04-19 11:49:57,336 [App:INFO] disconnected
+2019-04-19 11:49:58,338 [SerialConnector:INFO] creating object
+2019-04-19 11:49:58,338 [Hdlc:INFO] Creating object
+2019-04-19 11:49:58,338 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:58,339 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:58,339 [Hdlc:INFO] disconnect
+2019-04-19 11:49:58,339 [App:INFO] disconnected
+2019-04-19 11:49:59,341 [SerialConnector:INFO] creating object
+2019-04-19 11:49:59,341 [Hdlc:INFO] Creating object
+2019-04-19 11:49:59,342 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:59,342 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:49:59,342 [Hdlc:INFO] disconnect
+2019-04-19 11:49:59,342 [App:INFO] disconnected
+2019-04-19 11:50:00,344 [SerialConnector:INFO] creating object
+2019-04-19 11:50:00,345 [Hdlc:INFO] Creating object
+2019-04-19 11:50:00,345 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:00,345 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:00,345 [Hdlc:INFO] disconnect
+2019-04-19 11:50:00,346 [App:INFO] disconnected
+2019-04-19 11:50:01,347 [SerialConnector:INFO] creating object
+2019-04-19 11:50:01,348 [Hdlc:INFO] Creating object
+2019-04-19 11:50:01,348 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:01,348 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:01,348 [Hdlc:INFO] disconnect
+2019-04-19 11:50:01,348 [App:INFO] disconnected
+2019-04-19 11:50:02,350 [SerialConnector:INFO] creating object
+2019-04-19 11:50:02,350 [Hdlc:INFO] Creating object
+2019-04-19 11:50:02,351 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:02,351 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:02,351 [Hdlc:INFO] disconnect
+2019-04-19 11:50:02,352 [App:INFO] disconnected
+2019-04-19 11:50:03,353 [SerialConnector:INFO] creating object
+2019-04-19 11:50:03,354 [Hdlc:INFO] Creating object
+2019-04-19 11:50:03,354 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:03,354 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:03,354 [Hdlc:INFO] disconnect
+2019-04-19 11:50:03,354 [App:INFO] disconnected
+2019-04-19 11:50:04,356 [SerialConnector:INFO] creating object
+2019-04-19 11:50:04,356 [Hdlc:INFO] Creating object
+2019-04-19 11:50:04,357 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:04,357 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:04,357 [Hdlc:INFO] disconnect
+2019-04-19 11:50:04,357 [App:INFO] disconnected
+2019-04-19 11:50:05,359 [SerialConnector:INFO] creating object
+2019-04-19 11:50:05,359 [Hdlc:INFO] Creating object
+2019-04-19 11:50:05,359 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:05,359 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:05,360 [Hdlc:INFO] disconnect
+2019-04-19 11:50:05,360 [App:INFO] disconnected
+2019-04-19 11:50:06,361 [SerialConnector:INFO] creating object
+2019-04-19 11:50:06,362 [Hdlc:INFO] Creating object
+2019-04-19 11:50:06,362 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:06,362 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:06,362 [Hdlc:INFO] disconnect
+2019-04-19 11:50:06,363 [App:INFO] disconnected
+2019-04-19 11:50:07,364 [SerialConnector:INFO] creating object
+2019-04-19 11:50:07,365 [Hdlc:INFO] Creating object
+2019-04-19 11:50:07,365 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:07,366 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:07,366 [Hdlc:INFO] disconnect
+2019-04-19 11:50:07,366 [App:INFO] disconnected
+2019-04-19 11:50:08,368 [SerialConnector:INFO] creating object
+2019-04-19 11:50:08,368 [Hdlc:INFO] Creating object
+2019-04-19 11:50:08,369 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:08,369 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 11:50:08,369 [Hdlc:INFO] disconnect
+2019-04-19 11:50:08,369 [App:INFO] disconnected
+2019-04-19 12:12:57,179 [App:INFO] receiverTask started
+2019-04-19 12:12:57,179 [SerialConnector:INFO] creating object
+2019-04-19 12:12:57,179 [App:INFO] configurationTask started
+2019-04-19 12:12:57,179 [Hdlc:INFO] Creating object
+2019-04-19 12:12:57,180 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:57,180 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:57,180 [Hdlc:INFO] disconnect
+2019-04-19 12:12:57,180 [App:INFO] disconnected
+2019-04-19 12:12:58,181 [SerialConnector:INFO] creating object
+2019-04-19 12:12:58,182 [Hdlc:INFO] Creating object
+2019-04-19 12:12:58,183 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:58,183 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:58,183 [Hdlc:INFO] disconnect
+2019-04-19 12:12:58,183 [App:INFO] disconnected
+2019-04-19 12:12:59,185 [SerialConnector:INFO] creating object
+2019-04-19 12:12:59,185 [Hdlc:INFO] Creating object
+2019-04-19 12:12:59,186 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:59,186 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:12:59,186 [Hdlc:INFO] disconnect
+2019-04-19 12:12:59,186 [App:INFO] disconnected
+2019-04-19 12:13:00,188 [SerialConnector:INFO] creating object
+2019-04-19 12:13:00,189 [Hdlc:INFO] Creating object
+2019-04-19 12:13:00,189 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:00,189 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:00,190 [Hdlc:INFO] disconnect
+2019-04-19 12:13:00,190 [App:INFO] disconnected
+2019-04-19 12:13:01,192 [SerialConnector:INFO] creating object
+2019-04-19 12:13:01,192 [Hdlc:INFO] Creating object
+2019-04-19 12:13:01,193 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:01,193 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:01,193 [Hdlc:INFO] disconnect
+2019-04-19 12:13:01,194 [App:INFO] disconnected
+2019-04-19 12:13:02,185 [SerialConnector:ERROR] not connected
+2019-04-19 12:13:02,185 [App:ERROR] error sending configuration: Connection Error: not connected
+2019-04-19 12:13:02,195 [SerialConnector:INFO] creating object
+2019-04-19 12:13:02,196 [Hdlc:INFO] Creating object
+2019-04-19 12:13:02,196 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:02,197 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:02,197 [Hdlc:INFO] disconnect
+2019-04-19 12:13:02,197 [App:INFO] disconnected
+2019-04-19 12:13:03,199 [SerialConnector:INFO] creating object
+2019-04-19 12:13:03,199 [Hdlc:INFO] Creating object
+2019-04-19 12:13:03,200 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:03,200 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:03,200 [Hdlc:INFO] disconnect
+2019-04-19 12:13:03,201 [App:INFO] disconnected
+2019-04-19 12:13:04,202 [SerialConnector:INFO] creating object
+2019-04-19 12:13:04,202 [Hdlc:INFO] Creating object
+2019-04-19 12:13:04,202 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:04,202 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:04,203 [Hdlc:INFO] disconnect
+2019-04-19 12:13:04,203 [App:INFO] disconnected
+2019-04-19 12:13:05,204 [SerialConnector:INFO] creating object
+2019-04-19 12:13:05,204 [Hdlc:INFO] Creating object
+2019-04-19 12:13:05,204 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:05,204 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:05,205 [Hdlc:INFO] disconnect
+2019-04-19 12:13:05,205 [App:INFO] disconnected
+2019-04-19 12:13:06,206 [SerialConnector:INFO] creating object
+2019-04-19 12:13:06,206 [Hdlc:INFO] Creating object
+2019-04-19 12:13:06,206 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:06,207 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:06,207 [Hdlc:INFO] disconnect
+2019-04-19 12:13:06,207 [App:INFO] disconnected
+2019-04-19 12:13:07,208 [SerialConnector:INFO] creating object
+2019-04-19 12:13:07,209 [Hdlc:INFO] Creating object
+2019-04-19 12:13:07,209 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:07,210 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:07,210 [Hdlc:INFO] disconnect
+2019-04-19 12:13:07,210 [App:INFO] disconnected
+2019-04-19 12:13:08,212 [SerialConnector:INFO] creating object
+2019-04-19 12:13:08,212 [Hdlc:INFO] Creating object
+2019-04-19 12:13:08,213 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:08,213 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:08,214 [Hdlc:INFO] disconnect
+2019-04-19 12:13:08,214 [App:INFO] disconnected
+2019-04-19 12:13:09,216 [SerialConnector:INFO] creating object
+2019-04-19 12:13:09,216 [Hdlc:INFO] Creating object
+2019-04-19 12:13:09,217 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:09,217 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:09,218 [Hdlc:INFO] disconnect
+2019-04-19 12:13:09,218 [App:INFO] disconnected
+2019-04-19 12:13:10,220 [SerialConnector:INFO] creating object
+2019-04-19 12:13:10,221 [Hdlc:INFO] Creating object
+2019-04-19 12:13:10,221 [Hdlc:WARNING] could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:10,222 [App:WARNING] Connection Error: could not open COM21@115200baud, reason: [Errno 2] could not open port COM21: [Errno 2] No such file or directory: 'COM21'
+2019-04-19 12:13:10,222 [Hdlc:INFO] disconnect
+2019-04-19 12:13:10,222 [App:INFO] disconnected
+2019-04-19 12:19:13,955 [App:INFO] receiverTask started
+2019-04-19 12:19:13,955 [SerialConnector:INFO] creating object
+2019-04-19 12:19:13,955 [App:INFO] configurationTask started
+2019-04-19 12:19:13,955 [Hdlc:INFO] Creating object
+2019-04-19 12:19:13,956 [Hdlc:INFO] opened port /dev/ttyUSB3@115200baud
+2019-04-19 12:19:13,956 [SerialConnector:INFO] hdlc notification: connection state=True
+2019-04-19 12:19:13,956 [Hdlc:INFO] thread started
+2019-04-19 12:19:13,956 [ByteArraySerializer:DEBUG] serialize ...
+- commandArray:     ['hello']
+- fieldsToFill:     {'cliSeqNo': 255, 'version': 4, 'mode': 0}
+2019-04-19 12:19:13,957 [ByteArraySerializer:DEBUG] ... serialize into
+- cmdId:            1
+- byteArray:        04-ff-00
+2019-04-19 12:19:13,957 [SerialConnector:DEBUG] _sendInternal cmdId=1 retry=0 isResponse=False serializedFields=[4, 255, 0]
+2019-04-19 12:19:13,957 [SerialConnector:DEBUG] ---------- pcToMote DATA (0) ---------->
+2019-04-19 12:19:13,957 [Crc:DEBUG] calculating for data=00-01-00-03-04-ff-00
+2019-04-19 12:19:13,957 [Crc:DEBUG] fcs=0x3731
+2019-04-19 12:19:13,957 [Hdlc:DEBUG] 
+packetToSend:
+ - payload: 00 01 00 03 04 ff 00
+ - fcs:     37 31
+ - valid:   True
+2019-04-19 12:19:13,961 [Crc:DEBUG] calculating for data=00-02-00-05-00-04-00-ff-00
+2019-04-19 12:19:13,961 [Crc:DEBUG] fcs=0x2323
+2019-04-19 12:19:13,961 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 02 00 05 00 04 00 ff 00
+ - fcs:     23 23
+ - valid:   True
+2019-04-19 12:19:13,961 [SerialConnector:DEBUG] cmdId=2 length=5 isResponse=False packetId=0 payload=[0, 4, 0, 255, 0]
+2019-04-19 12:19:13,961 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:19:13,961 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:13,961 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             command
+- id:               2
+- byteArray:        00-04-00-ff-00
+2019-04-19 12:19:13,961 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['hello_response']
+- returnFields:     {'cliSeqNo': 255, 'version': 4, 'successCode': 0, 'mgrSeqNo': 0, 'mode': 0}
+2019-04-19 12:19:13,964 [ByteArraySerializer:DEBUG] serialize ...
+- commandArray:     ['getTime']
+- fieldsToFill:     {}
+2019-04-19 12:19:13,964 [ByteArraySerializer:DEBUG] ... serialize into
+- cmdId:            23
+- byteArray:        
+2019-04-19 12:19:13,964 [SerialConnector:DEBUG] _sendInternal cmdId=23 retry=0 isResponse=False serializedFields=[]
+2019-04-19 12:19:13,964 [SerialConnector:DEBUG] ---------- pcToMote DATA (0) ---------->
+2019-04-19 12:19:13,965 [Crc:DEBUG] calculating for data=02-17-00-00
+2019-04-19 12:19:13,965 [Crc:DEBUG] fcs=0x38cc
+2019-04-19 12:19:13,965 [Hdlc:DEBUG] 
+packetToSend:
+ - payload: 02 17 00 00
+ - fcs:     38 cc
+ - valid:   True
+2019-04-19 12:19:13,970 [Crc:DEBUG] calculating for data=03-17-00-18-00-00-00-28-c7-00-00-00-00-3d-22-91-76-00-0d-1d-ec-00-00-15-f8-62-14-08
+2019-04-19 12:19:13,970 [Crc:DEBUG] fcs=0x93d1
+2019-04-19 12:19:13,970 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 03 17 00 18 00 00 00 28 c7 00 00 00 00 3d 22 91 76 00 0d 1d ec 00 00 15 f8 62 14 08
+ - fcs:     93 d1
+ - valid:   True
+2019-04-19 12:19:13,970 [SerialConnector:DEBUG] cmdId=23 length=24 isResponse=True packetId=0 payload=[0, 0, 0, 40, 199, 0, 0, 0, 0, 61, 34, 145, 118, 0, 13, 29, 236, 0, 0, 21, 248, 98, 20, 8]
+2019-04-19 12:19:13,971 [SerialConnector:DEBUG] <--------- pcToMote ACK (0) after 0.006 --------
+2019-04-19 12:19:13,971 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:13,971 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             command
+- id:               23
+- byteArray:        00-00-00-28-c7-00-00-00-00-3d-22-91-76-00-0d-1d-ec-00-00-15-f8-62-14-08
+2019-04-19 12:19:13,971 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['getTime']
+- returnFields:     {'uptime': 10439, 'utcUsecs': 859628, 'utcSecs': 1025675638, 'asnOffset': 5128, 'RC': 0, 'asn': [0, 0, 21, 248, 98]}
+2019-04-19 12:19:13,972 [App:INFO] updated manager time to 1025675638.86
+2019-04-19 12:19:13,973 [ByteArraySerializer:DEBUG] serialize ...
+- commandArray:     ['subscribe']
+- fieldsToFill:     {'filter': [0, 16], 'unackFilter': [0, 16]}
+2019-04-19 12:19:13,973 [ByteArraySerializer:DEBUG] ... serialize into
+- cmdId:            22
+- byteArray:        00-00-00-10-00-00-00-10
+2019-04-19 12:19:13,973 [SerialConnector:DEBUG] _sendInternal cmdId=22 retry=0 isResponse=False serializedFields=[0, 0, 0, 16, 0, 0, 0, 16]
+2019-04-19 12:19:13,973 [SerialConnector:DEBUG] ---------- pcToMote DATA (1) ---------->
+2019-04-19 12:19:13,973 [Crc:DEBUG] calculating for data=02-16-01-08-00-00-00-10-00-00-00-10
+2019-04-19 12:19:13,973 [Crc:DEBUG] fcs=0x7b11
+2019-04-19 12:19:13,973 [Hdlc:DEBUG] 
+packetToSend:
+ - payload: 02 16 01 08 00 00 00 10 00 00 00 10
+ - fcs:     7b 11
+ - valid:   True
+2019-04-19 12:19:13,977 [Crc:DEBUG] calculating for data=03-16-01-01-00
+2019-04-19 12:19:13,977 [Crc:DEBUG] fcs=0x8419
+2019-04-19 12:19:13,977 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 03 16 01 01 00
+ - fcs:     84 19
+ - valid:   True
+2019-04-19 12:19:13,977 [SerialConnector:DEBUG] cmdId=22 length=1 isResponse=True packetId=1 payload=[0]
+2019-04-19 12:19:13,977 [SerialConnector:DEBUG] <--------- pcToMote ACK (1) after 0.004 --------
+2019-04-19 12:19:13,978 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:13,978 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             command
+- id:               22
+- byteArray:        00
+2019-04-19 12:19:13,978 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['subscribe']
+- returnFields:     {'RC': 0}
+2019-04-19 12:19:13,981 [App:INFO] connected
+2019-04-19 12:19:18,960 [ByteArraySerializer:DEBUG] serialize ...
+- commandArray:     ['sendData']
+- fieldsToFill:     {'macAddress': [255, 255, 255, 255, 255, 255, 255, 255], 'srcPort': 61626, 'priority': 0, 'dstPort': 61626, 'data': [115, 121, 116, 112, 2, 0, 0, 14, 16], 'options': 0}
+2019-04-19 12:19:18,961 [ByteArraySerializer:DEBUG] ... serialize into
+- cmdId:            44
+- byteArray:        ff-ff-ff-ff-ff-ff-ff-ff-00-f0-ba-f0-ba-00-73-79-74-70-02-00-00-0e-10
+2019-04-19 12:19:18,961 [SerialConnector:DEBUG] _sendInternal cmdId=44 retry=0 isResponse=False serializedFields=[255, 255, 255, 255, 255, 255, 255, 255, 0, 240, 186, 240, 186, 0, 115, 121, 116, 112, 2, 0, 0, 14, 16]
+2019-04-19 12:19:18,961 [SerialConnector:DEBUG] ---------- pcToMote DATA (2) ---------->
+2019-04-19 12:19:18,961 [Crc:DEBUG] calculating for data=02-2c-02-17-ff-ff-ff-ff-ff-ff-ff-ff-00-f0-ba-f0-ba-00-73-79-74-70-02-00-00-0e-10
+2019-04-19 12:19:18,961 [Crc:DEBUG] fcs=0xde8a
+2019-04-19 12:19:18,962 [Hdlc:DEBUG] 
+packetToSend:
+ - payload: 02 2c 02 17 ff ff ff ff ff ff ff ff 00 f0 ba f0 ba 00 73 79 74 70 02 00 00 0e 10
+ - fcs:     de 8a
+ - valid:   True
+2019-04-19 12:19:18,969 [Crc:DEBUG] calculating for data=03-2c-02-05-00-00-00-00-33
+2019-04-19 12:19:18,970 [Crc:DEBUG] fcs=0x56ca
+2019-04-19 12:19:18,970 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 03 2c 02 05 00 00 00 00 33
+ - fcs:     56 ca
+ - valid:   True
+2019-04-19 12:19:18,970 [SerialConnector:DEBUG] cmdId=44 length=5 isResponse=True packetId=2 payload=[0, 0, 0, 0, 51]
+2019-04-19 12:19:18,970 [SerialConnector:DEBUG] <--------- pcToMote ACK (2) after 0.009 --------
+2019-04-19 12:19:18,970 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:18,970 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             command
+- id:               44
+- byteArray:        00-00-00-00-33
+2019-04-19 12:19:18,971 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['sendData']
+- returnFields:     {'callbackId': 51, 'RC': 0}
+2019-04-19 12:19:18,977 [App:INFO]    configuration broadcast
+2019-04-19 12:19:19,262 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-7b-00-0e-a0-24-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-7b-00-0e-b3-53-00-00-75-30-01-10-0a-01
+2019-04-19 12:19:19,262 [Crc:DEBUG] fcs=0x446a
+2019-04-19 12:19:19,262 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 7b 00 0e a0 24 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 91 7b 00 0e b3 53 00 00 75 30 01 10 0a 01
+ - fcs:     44 6a
+ - valid:   True
+2019-04-19 12:19:19,263 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 123, 0, 14, 160, 36, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 123, 0, 14, 179, 83, 0, 0, 117, 48, 1, 16, 10, 1]
+2019-04-19 12:19:19,263 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:19:19,263 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:19,263 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-7b-00-0e-a0-24-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-7b-00-0e-b3-53-00-00-75-30-01-10-0a-01
+2019-04-19 12:19:19,263 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 958500, 'utcSecs': 1025675643, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 123, 0, 14, 179, 83, 0, 0, 117, 48, 1, 16, 10, 1]}
+2019-04-19 12:19:42,969 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-93-00-08-2b-cc-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-93-00-08-29-a5-00-00-75-30-01-10-09-b0
+2019-04-19 12:19:42,969 [Crc:DEBUG] fcs=0xa0eb
+2019-04-19 12:19:42,970 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 93 00 08 2b cc 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 91 93 00 08 29 a5 00 00 75 30 01 10 09 b0
+ - fcs:     a0 eb
+ - valid:   True
+2019-04-19 12:19:42,970 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 147, 0, 8, 43, 204, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 147, 0, 8, 41, 165, 0, 0, 117, 48, 1, 16, 9, 176]
+2019-04-19 12:19:42,970 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:19:42,970 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:42,971 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-93-00-08-2b-cc-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-93-00-08-29-a5-00-00-75-30-01-10-09-b0
+2019-04-19 12:19:42,971 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 535500, 'utcSecs': 1025675667, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 147, 0, 8, 41, 165, 0, 0, 117, 48, 1, 16, 9, 176]}
+2019-04-19 12:19:49,884 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-99-00-0e-a2-18-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-99-00-0e-b3-1f-00-00-75-30-01-10-0a-01
+2019-04-19 12:19:49,885 [Crc:DEBUG] fcs=0x b2a
+2019-04-19 12:19:49,885 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 99 00 0e a2 18 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 91 99 00 0e b3 1f 00 00 75 30 01 10 0a 01
+ - fcs:     0b 2a
+ - valid:   True
+2019-04-19 12:19:49,885 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 153, 0, 14, 162, 24, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 153, 0, 14, 179, 31, 0, 0, 117, 48, 1, 16, 10, 1]
+2019-04-19 12:19:49,885 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:19:49,885 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:19:49,885 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-99-00-0e-a2-18-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-99-00-0e-b3-1f-00-00-75-30-01-10-0a-01
+2019-04-19 12:19:49,885 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 959000, 'utcSecs': 1025675673, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 153, 0, 14, 179, 31, 0, 0, 117, 48, 1, 16, 10, 1]}
+2019-04-19 12:20:14,012 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-b1-00-08-11-6e-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-b1-00-08-29-90-00-00-75-30-01-10-09-c4
+2019-04-19 12:20:14,013 [Crc:DEBUG] fcs=0x1868
+2019-04-19 12:20:14,013 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 b1 00 08 11 6e 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 91 b1 00 08 29 90 00 00 75 30 01 10 09 c4
+ - fcs:     18 68
+ - valid:   True
+2019-04-19 12:20:14,013 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 177, 0, 8, 17, 110, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 177, 0, 8, 41, 144, 0, 0, 117, 48, 1, 16, 9, 196]
+2019-04-19 12:20:14,014 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:20:14,014 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:20:14,014 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-b1-00-08-11-6e-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-b1-00-08-29-90-00-00-75-30-01-10-09-c4
+2019-04-19 12:20:14,014 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 528750, 'utcSecs': 1025675697, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 177, 0, 8, 41, 144, 0, 0, 117, 48, 1, 16, 9, 196]}
+2019-04-19 12:20:19,580 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-b7-00-0e-a4-0c-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-b7-00-0e-b2-f1-00-00-75-30-01-10-0a-01
+2019-04-19 12:20:19,580 [Crc:DEBUG] fcs=0xf6ba
+2019-04-19 12:20:19,581 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 b7 00 0e a4 0c 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 91 b7 00 0e b2 f1 00 00 75 30 01 10 0a 01
+ - fcs:     f6 ba
+ - valid:   True
+2019-04-19 12:20:19,581 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 183, 0, 14, 164, 12, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 183, 0, 14, 178, 241, 0, 0, 117, 48, 1, 16, 10, 1]
+2019-04-19 12:20:19,581 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:20:19,581 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:20:19,581 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-b7-00-0e-a4-0c-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-b7-00-0e-b2-f1-00-00-75-30-01-10-0a-01
+2019-04-19 12:20:19,582 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 959500, 'utcSecs': 1025675703, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 183, 0, 14, 178, 241, 0, 0, 117, 48, 1, 16, 10, 1]}
+2019-04-19 12:20:43,708 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-cf-00-08-13-62-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-cf-00-08-29-5a-00-00-75-30-01-10-09-c4
+2019-04-19 12:20:43,708 [Crc:DEBUG] fcs=0x9883
+2019-04-19 12:20:43,709 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 cf 00 08 13 62 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 91 cf 00 08 29 5a 00 00 75 30 01 10 09 c4
+ - fcs:     98 83
+ - valid:   True
+2019-04-19 12:20:43,709 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 207, 0, 8, 19, 98, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 207, 0, 8, 41, 90, 0, 0, 117, 48, 1, 16, 9, 196]
+2019-04-19 12:20:43,709 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:20:43,709 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:20:43,710 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-cf-00-08-13-62-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-cf-00-08-29-5a-00-00-75-30-01-10-09-c4
+2019-04-19 12:20:43,710 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 529250, 'utcSecs': 1025675727, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 207, 0, 8, 41, 90, 0, 0, 117, 48, 1, 16, 9, 196]}
+2019-04-19 12:20:49,276 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-d5-00-0e-a6-00-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-d5-00-0e-b2-a3-00-00-75-30-01-10-0a-15
+2019-04-19 12:20:49,276 [Crc:DEBUG] fcs=0xec55
+2019-04-19 12:20:49,277 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 d5 00 0e a6 00 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 91 d5 00 0e b2 a3 00 00 75 30 01 10 0a 15
+ - fcs:     ec 55
+ - valid:   True
+2019-04-19 12:20:49,277 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 213, 0, 14, 166, 0, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 213, 0, 14, 178, 163, 0, 0, 117, 48, 1, 16, 10, 21]
+2019-04-19 12:20:49,277 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:20:49,277 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:20:49,278 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-d5-00-0e-a6-00-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-d5-00-0e-b2-a3-00-00-75-30-01-10-0a-15
+2019-04-19 12:20:49,278 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 960000, 'utcSecs': 1025675733, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 213, 0, 14, 178, 163, 0, 0, 117, 48, 1, 16, 10, 21]}
+2019-04-19 12:21:13,910 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-ed-00-08-15-56-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-ed-00-08-29-38-00-00-75-30-01-10-09-d8
+2019-04-19 12:21:13,910 [Crc:DEBUG] fcs=0x98a6
+2019-04-19 12:21:13,910 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 ed 00 08 15 56 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 91 ed 00 08 29 38 00 00 75 30 01 10 09 d8
+ - fcs:     98 a6
+ - valid:   True
+2019-04-19 12:21:13,911 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 237, 0, 8, 21, 86, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 237, 0, 8, 41, 56, 0, 0, 117, 48, 1, 16, 9, 216]
+2019-04-19 12:21:13,911 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:21:13,911 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:21:13,911 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-ed-00-08-15-56-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-91-ed-00-08-29-38-00-00-75-30-01-10-09-d8
+2019-04-19 12:21:13,911 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 529750, 'utcSecs': 1025675757, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 237, 0, 8, 41, 56, 0, 0, 117, 48, 1, 16, 9, 216]}
+2019-04-19 12:21:19,898 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-91-f3-00-0e-a7-f4-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-f3-00-0e-b2-6b-00-00-75-30-01-10-09-ec
+2019-04-19 12:21:19,899 [Crc:DEBUG] fcs=0xa149
+2019-04-19 12:21:19,899 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 91 f3 00 0e a7 f4 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 91 f3 00 0e b2 6b 00 00 75 30 01 10 09 ec
+ - fcs:     a1 49
+ - valid:   True
+2019-04-19 12:21:19,899 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 145, 243, 0, 14, 167, 244, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 243, 0, 14, 178, 107, 0, 0, 117, 48, 1, 16, 9, 236]
+2019-04-19 12:21:19,900 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:21:19,900 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:21:19,900 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-91-f3-00-0e-a7-f4-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-91-f3-00-0e-b2-6b-00-00-75-30-01-10-09-ec
+2019-04-19 12:21:19,900 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 960500, 'utcSecs': 1025675763, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 145, 243, 0, 14, 178, 107, 0, 0, 117, 48, 1, 16, 9, 236]}
+2019-04-19 12:21:43,605 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-0b-00-08-17-4a-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-0b-00-08-29-3b-00-00-75-30-01-10-09-ec
+2019-04-19 12:21:43,605 [Crc:DEBUG] fcs=0x93f0
+2019-04-19 12:21:43,606 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 0b 00 08 17 4a 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 92 0b 00 08 29 3b 00 00 75 30 01 10 09 ec
+ - fcs:     93 f0
+ - valid:   True
+2019-04-19 12:21:43,606 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 11, 0, 8, 23, 74, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 11, 0, 8, 41, 59, 0, 0, 117, 48, 1, 16, 9, 236]
+2019-04-19 12:21:43,606 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:21:43,606 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:21:43,606 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-0b-00-08-17-4a-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-0b-00-08-29-3b-00-00-75-30-01-10-09-ec
+2019-04-19 12:21:43,607 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 530250, 'utcSecs': 1025675787, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 11, 0, 8, 41, 59, 0, 0, 117, 48, 1, 16, 9, 236]}
+2019-04-19 12:21:49,593 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-11-00-0e-a9-e8-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-11-00-0e-b2-34-00-00-75-30-01-10-0a-29
+2019-04-19 12:21:49,593 [Crc:DEBUG] fcs=0x1430
+2019-04-19 12:21:49,594 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 11 00 0e a9 e8 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 92 11 00 0e b2 34 00 00 75 30 01 10 0a 29
+ - fcs:     14 30
+ - valid:   True
+2019-04-19 12:21:49,594 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 17, 0, 14, 169, 232, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 17, 0, 14, 178, 52, 0, 0, 117, 48, 1, 16, 10, 41]
+2019-04-19 12:21:49,594 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:21:49,594 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:21:49,594 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-11-00-0e-a9-e8-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-11-00-0e-b2-34-00-00-75-30-01-10-0a-29
+2019-04-19 12:21:49,594 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 961000, 'utcSecs': 1025675793, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 17, 0, 14, 178, 52, 0, 0, 117, 48, 1, 16, 10, 41]}
+2019-04-19 12:22:13,300 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-29-00-08-19-3e-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-29-00-08-29-1f-00-00-75-30-01-10-09-ec
+2019-04-19 12:22:13,300 [Crc:DEBUG] fcs=0x4d d
+2019-04-19 12:22:13,301 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 29 00 08 19 3e 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 92 29 00 08 29 1f 00 00 75 30 01 10 09 ec
+ - fcs:     4d 0d
+ - valid:   True
+2019-04-19 12:22:13,301 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 41, 0, 8, 25, 62, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 41, 0, 8, 41, 31, 0, 0, 117, 48, 1, 16, 9, 236]
+2019-04-19 12:22:13,301 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:22:13,301 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:22:13,301 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-29-00-08-19-3e-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-29-00-08-29-1f-00-00-75-30-01-10-09-ec
+2019-04-19 12:22:13,302 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 530750, 'utcSecs': 1025675817, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 41, 0, 8, 41, 31, 0, 0, 117, 48, 1, 16, 9, 236]}
+2019-04-19 12:22:19,288 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-2f-00-0e-ab-dc-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-2f-00-0e-b2-31-00-00-75-30-01-10-0a-01
+2019-04-19 12:22:19,288 [Crc:DEBUG] fcs=0xc3e7
+2019-04-19 12:22:19,288 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 2f 00 0e ab dc 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 92 2f 00 0e b2 31 00 00 75 30 01 10 0a 01
+ - fcs:     c3 e7
+ - valid:   True
+2019-04-19 12:22:19,288 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 47, 0, 14, 171, 220, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 47, 0, 14, 178, 49, 0, 0, 117, 48, 1, 16, 10, 1]
+2019-04-19 12:22:19,289 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:22:19,289 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:22:19,289 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-2f-00-0e-ab-dc-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-2f-00-0e-b2-31-00-00-75-30-01-10-0a-01
+2019-04-19 12:22:19,289 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 961500, 'utcSecs': 1025675823, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 47, 0, 14, 178, 49, 0, 0, 117, 48, 1, 16, 10, 1]}
+2019-04-19 12:22:42,996 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-47-00-08-1b-32-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-47-00-08-28-f5-00-00-75-30-01-10-09-9c
+2019-04-19 12:22:42,996 [Crc:DEBUG] fcs=0x7c50
+2019-04-19 12:22:42,997 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 47 00 08 1b 32 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 92 47 00 08 28 f5 00 00 75 30 01 10 09 9c
+ - fcs:     7c 50
+ - valid:   True
+2019-04-19 12:22:42,997 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 71, 0, 8, 27, 50, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 71, 0, 8, 40, 245, 0, 0, 117, 48, 1, 16, 9, 156]
+2019-04-19 12:22:42,997 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:22:42,997 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:22:42,998 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-47-00-08-1b-32-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-47-00-08-28-f5-00-00-75-30-01-10-09-9c
+2019-04-19 12:22:42,998 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 531250, 'utcSecs': 1025675847, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 71, 0, 8, 40, 245, 0, 0, 117, 48, 1, 16, 9, 156]}
+2019-04-19 12:22:49,912 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-4d-00-0e-ad-d0-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-4d-00-0e-b2-09-00-00-75-30-01-10-09-ec
+2019-04-19 12:22:49,912 [Crc:DEBUG] fcs=0xebd6
+2019-04-19 12:22:49,912 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 4d 00 0e ad d0 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 92 4d 00 0e b2 09 00 00 75 30 01 10 09 ec
+ - fcs:     eb d6
+ - valid:   True
+2019-04-19 12:22:49,913 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 77, 0, 14, 173, 208, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 77, 0, 14, 178, 9, 0, 0, 117, 48, 1, 16, 9, 236]
+2019-04-19 12:22:49,913 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:22:49,913 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:22:49,913 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-4d-00-0e-ad-d0-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-4d-00-0e-b2-09-00-00-75-30-01-10-09-ec
+2019-04-19 12:22:49,913 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 962000, 'utcSecs': 1025675853, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 77, 0, 14, 178, 9, 0, 0, 117, 48, 1, 16, 9, 236]}
+2019-04-19 12:23:12,691 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-65-00-08-1d-26-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-65-00-08-28-ee-00-00-75-30-01-10-09-d8
+2019-04-19 12:23:12,691 [Crc:DEBUG] fcs=0x19b8
+2019-04-19 12:23:12,692 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 65 00 08 1d 26 00 17 0d 00 00 31 cc 40 f0 b9 f0 b9 00 01 05 00 ff 01 05 00 00 00 00 3d 22 92 65 00 08 28 ee 00 00 75 30 01 10 09 d8
+ - fcs:     19 b8
+ - valid:   True
+2019-04-19 12:23:12,692 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 101, 0, 8, 29, 38, 0, 23, 13, 0, 0, 49, 204, 64, 240, 185, 240, 185, 0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 101, 0, 8, 40, 238, 0, 0, 117, 48, 1, 16, 9, 216]
+2019-04-19 12:23:12,692 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:23:12,692 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:23:12,693 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-65-00-08-1d-26-00-17-0d-00-00-31-cc-40-f0-b9-f0-b9-00-01-05-00-ff-01-05-00-00-00-00-3d-22-92-65-00-08-28-ee-00-00-75-30-01-10-09-d8
+2019-04-19 12:23:12,693 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 204, 64], 'srcPort': 61625, 'utcUsecs': 531750, 'utcSecs': 1025675877, 'dstPort': 61625, 'data': [0, 1, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 101, 0, 8, 40, 238, 0, 0, 117, 48, 1, 16, 9, 216]}
+2019-04-19 12:23:19,606 [Crc:DEBUG] calculating for data=00-14-00-34-04-00-00-00-00-3d-22-92-6b-00-0e-af-c4-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-6b-00-0e-b1-e6-00-00-75-30-01-10-0a-01
+2019-04-19 12:23:19,607 [Crc:DEBUG] fcs=0x4c21
+2019-04-19 12:23:19,607 [Hdlc:DEBUG] 
+receivedFrame:
+ - payload: 00 14 00 34 04 00 00 00 00 3d 22 92 6b 00 0e af c4 00 17 0d 00 00 31 c1 a1 f0 b9 f0 b9 00 00 05 00 ff 01 05 00 00 00 00 3d 22 92 6b 00 0e b1 e6 00 00 75 30 01 10 0a 01
+ - fcs:     4c 21
+ - valid:   True
+2019-04-19 12:23:19,607 [SerialConnector:DEBUG] cmdId=20 length=52 isResponse=False packetId=0 payload=[4, 0, 0, 0, 0, 61, 34, 146, 107, 0, 14, 175, 196, 0, 23, 13, 0, 0, 49, 193, 161, 240, 185, 240, 185, 0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 107, 0, 14, 177, 230, 0, 0, 117, 48, 1, 16, 10, 1]
+2019-04-19 12:23:19,607 [SerialConnector:DEBUG] <--------- moteToPc DATA (0) ----------
+2019-04-19 12:23:19,607 [SerialConnector:DEBUG] no ack needed
+2019-04-19 12:23:19,607 [ByteArraySerializer:DEBUG] deserialize ...
+- type:             notification
+- id:               20
+- byteArray:        04-00-00-00-00-3d-22-92-6b-00-0e-af-c4-00-17-0d-00-00-31-c1-a1-f0-b9-f0-b9-00-00-05-00-ff-01-05-00-00-00-00-3d-22-92-6b-00-0e-b1-e6-00-00-75-30-01-10-0a-01
+2019-04-19 12:23:19,607 [ByteArraySerializer:DEBUG] ... deserialized into
+- nameArray:        ['notification', 'notifData']
+- returnFields:     {'macAddress': [0, 23, 13, 0, 0, 49, 193, 161], 'srcPort': 61625, 'utcUsecs': 962500, 'utcSecs': 1025675883, 'dstPort': 61625, 'data': [0, 0, 5, 0, 255, 1, 5, 0, 0, 0, 0, 61, 34, 146, 107, 0, 14, 177, 230, 0, 0, 117, 48, 1, 16, 10, 1]}
