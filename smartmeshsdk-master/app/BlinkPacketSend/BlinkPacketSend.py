@@ -76,7 +76,7 @@ class NotifListener(threading.Thread):
                 else:
                     keepListening = False
         self.disconnectedCb()
-
+timeTx =''
 def mynotifIndication(mynotif):
     # Check for txDone notification, then print status information
     if mynotif[0]==['txDone']:
@@ -89,7 +89,7 @@ def mynotifIndication(mynotif):
                     with open('blinkMoteTxDone.json', 'a') as f:                    
                         f.write(json.dumps(jsonTimeTxDone))
                         f.write('\n')   
-                    print ('\n     txDone Status = {0}, Blink packet successfully sent\n'.format(value))                 
+                    print ('\n     txDone Status = {0}, Blink packet successfully sent\n'.format(value))                
                 else:
                     print ('\n     txDone Status = {0}, Error, Blink packet NOT sent\n'.format(value))
                 NotifEventDone.set()
@@ -128,7 +128,6 @@ try:
 
     # start a NotifListener
     NotifEventDone = threading.Event()
-    
     mynotifListener   = NotifListener (
                           moteconnector,
                           mynotifIndication,
@@ -141,7 +140,7 @@ try:
 
     for i in range(0, int(options.packets)):
         try:
-            STRING_TO_PUBLISH       = "{}_".format(options.location)+ "{}{}".format(random.randint(1, 100000000),random.randint(1, 100000000))
+            STRING_TO_PUBLISH       = "{}_".format(options.location)+ "{}{}{}{}".format(random.randint(1, 1000000000),random.randint(1, 1000000000), random.randint(1, 1000000000), random.randint(1, 1000000000))
             resp = moteconnector.dn_blink(
                 fIncludeDscvNbrs    = int(options.neighbors),
                 payload             = [ord(i) for i in STRING_TO_PUBLISH],
@@ -162,7 +161,6 @@ try:
             time.sleep(1)
 
         NotifEventDone.clear()
-
     moteconnector.disconnect()
   
     print 'Script ended normally.'

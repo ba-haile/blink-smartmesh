@@ -1,0 +1,21 @@
+{
+	"Time": "12:00",
+	"Blink-MAC-address": "abc",
+	"RSSIValue": [{
+			"NeighborID": "2",
+			"RSSI": "-50"
+		},
+		{
+			"NeighborID": "3",
+			"RSSI": "-40"
+		},
+		{
+			"NeighborID": "7",
+			"RSSI": "-60"
+		},
+		{
+			"NeighborID": "9",
+			"RSSI": "-70"
+		}
+	]
+}
